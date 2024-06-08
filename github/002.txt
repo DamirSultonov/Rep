@@ -1,0 +1,4 @@
+git add nimani
+git commit - m "nom yozish"
+git remote add origin https://github.com/DamirSultonov/Rep.git
+git push -u origin main
